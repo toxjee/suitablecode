@@ -2,75 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fcc3153-89b6-4153-869c-15aea204dbc7" name="Default Changelist" comment="Added favicon and intro text">
-      <change afterPath="$PROJECT_DIR$/.sass-cache/3d6fa5c425fc20ed7117f6c76a875abb4352080e/_settings.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/3d6fa5c425fc20ed7117f6c76a875abb4352080e/magnific-popup.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/5b222930b0702bfa5fe70af1ce4d9773806ed9bd/fonts.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/bc3aefaf6d2f0cebc0dab93745d28dce11a35dc0/_animated.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/bc3aefaf6d2f0cebc0dab93745d28dce11a35dc0/_bordered-pulled.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/bc3aefaf6d2f0cebc0dab93745d28dce11a35dc0/_core.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/bc3aefaf6d2f0cebc0dab93745d28dce11a35dc0/_fixed-width.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/bc3aefaf6d2f0cebc0dab93745d28dce11a35dc0/_icons.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/bc3aefaf6d2f0cebc0dab93745d28dce11a35dc0/_larger.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/bc3aefaf6d2f0cebc0dab93745d28dce11a35dc0/_list.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/bc3aefaf6d2f0cebc0dab93745d28dce11a35dc0/_mixins.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/bc3aefaf6d2f0cebc0dab93745d28dce11a35dc0/_path.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/bc3aefaf6d2f0cebc0dab93745d28dce11a35dc0/_rotated-flipped.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/bc3aefaf6d2f0cebc0dab93745d28dce11a35dc0/_screen-reader.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/bc3aefaf6d2f0cebc0dab93745d28dce11a35dc0/_stacked.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/bc3aefaf6d2f0cebc0dab93745d28dce11a35dc0/_variables.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/bc3aefaf6d2f0cebc0dab93745d28dce11a35dc0/font-awesome.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/efcc9518956e61a8cbfef0e66174533f14324396/_base.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/efcc9518956e61a8cbfef0e66174533f14324396/_reset.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/efcc9518956e61a8cbfef0e66174533f14324396/_site.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/efcc9518956e61a8cbfef0e66174533f14324396/_syntax.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/efcc9518956e61a8cbfef0e66174533f14324396/_utilities.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.sass-cache/efcc9518956e61a8cbfef0e66174533f14324396/_variables.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/fonts/liberation-mono-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/fonts/liberation-mono-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/fonts/liberation-mono-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/fonts/liberation-mono-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/fonts/weblysleekuil.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/fonts/weblysleekuil.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/fonts/weblysleekuil.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/fonts/weblysleekuil.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/fonts/weblysleekuil.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/js/canvas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/js/main.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/js/src/jquery-2.2.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/js/src/jquery.fitvid.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/js/src/jquery.magnific-popup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/assets/js/src/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/halve-small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/halve.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/nick1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/unsplash-gallery-image-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/unsplash-image-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/unsplash-image-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/unsplash-image-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/unsplash-image-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/images/unsplash-image-9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/posts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/tags.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/social-links.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/social-links.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,19 +17,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+            <state relative-caret-position="147">
+              <caret line="31" column="40" lean-forward="true" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/social-links.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="187" selection-start-line="9" selection-start-column="187" selection-end-line="9" selection-end-column="187" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/head.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="42" column="70" selection-start-line="42" selection-start-column="70" selection-end-line="42" selection-end-column="70" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/_site/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -111,13 +50,18 @@
         <entry file="file://$PROJECT_DIR$/_site/feed.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="21">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/favicon.ico">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/favicon.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -131,27 +75,9 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/favicon.png">
           <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/_sass/_base.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/_sass/_variables.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -159,12 +85,12 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>god</find>
-      <find>god</find>
       <find>g</find>
       <find>font</find>
       <find>fontr</find>
       <find>style.css</find>
       <find>favic</find>
+      <find>github</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -178,6 +104,7 @@
         <option value="$PROJECT_DIR$/_layouts/home.html" />
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_includes/social-links.html" />
       </list>
     </option>
   </component>
@@ -200,6 +127,32 @@
             <path>
               <item name="suitablecode" type="b2602c69:ProjectViewProjectNode" />
               <item name="suitablecode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="suitablecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suitablecode" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="suitablecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suitablecode" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="suitablecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suitablecode" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="suitablecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suitablecode" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="suitablecode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="suitablecode" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -258,7 +211,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4227000" />
+    <option name="totallyTimeSpent" value="4286000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -306,22 +259,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added self image." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2010-09-10-post-twitter-embeds.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2009-05-15-edge-case-nested-and-mixed-lists.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2010-09-10-post-twitter-embeds.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2009-05-15-edge-case-nested-and-mixed-lists.md" />
     <entry file="file://$PROJECT_DIR$/_pages/404.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -346,36 +285,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-05-29-halve-theme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-05-29-halve-theme.md" />
     <entry file="file://$PROJECT_DIR$/images/halve.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/post-image-halve-1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/post-image-halve-5.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/post-image-halve-1.png" />
+    <entry file="file://$PROJECT_DIR$/images/post-image-halve-5.png" />
     <entry file="file://$PROJECT_DIR$/images/unsplash-image-6.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.editorconfig">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_data/projects.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/projects.yaml" />
     <entry file="file://$PROJECT_DIR$/images/unsplash-image-9.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -388,15 +310,11 @@
     <entry file="file://$PROJECT_DIR$/images/unsplash-image-4.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/project.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/project.jpg" />
     <entry file="file://$PROJECT_DIR$/images/unsplash-gallery-image-3.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/halve-home-image.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/halve-home-image.png" />
     <entry file="file://$PROJECT_DIR$/images/halve-small.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -427,13 +345,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/overlay.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/social-links.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/nick1.jpg">
       <provider selected="true" editor-type-id="images" />
@@ -479,14 +390,7 @@
     <entry file="file://$PROJECT_DIR$/assets/_sass/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -507,7 +411,7 @@
     <entry file="file://$PROJECT_DIR$/_site/feed.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -522,6 +426,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/favicon.png">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/favicon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="31" column="40" lean-forward="true" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/social-links.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="187" selection-start-line="9" selection-start-column="187" selection-end-line="9" selection-end-column="187" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
