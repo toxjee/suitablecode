@@ -34,7 +34,7 @@ email:             info@suitablecode.com
 #twitter:            username
 #facebook:           username
 #github:             username
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#stackoverflow:     1841273/vangel-tzo
 linkedin:          nick-hol-76a9b572
 #xing:              username
 #instagram:          username
@@ -54,8 +54,8 @@ linkedin:          nick-hol-76a9b572
 #hackernews:        username
 #behance:           username
 
-# Gems
-gems:
+# plugins
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
