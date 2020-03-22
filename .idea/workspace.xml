@@ -1,33 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fcc3153-89b6-4153-869c-15aea204dbc7" name="Default Changelist" comment="Added favicon and intro text">
+    <list default="true" id="2fcc3153-89b6-4153-869c-15aea204dbc7" name="Default Changelist" comment="Updated some stuff.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/social-links.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/social-links.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/home.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/nick1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/_site/images/nick1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/unsplash-gallery-image-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/unsplash-image-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/unsplash-image-10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/unsplash-image-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/unsplash-image-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/images/unsplash-image-9.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/posts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tags.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/home.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/nick1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/nick1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/unsplash-gallery-image-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/unsplash-image-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/unsplash-image-10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/unsplash-image-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/unsplash-image-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/unsplash-image-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +31,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="editor.config.ad.shown" value="true" />
@@ -84,7 +65,7 @@
       <workItem from="1581604237192" duration="951000" />
       <workItem from="1584084142309" duration="599000" />
       <workItem from="1584087338281" duration="114000" />
-      <workItem from="1584870861839" duration="1550000" />
+      <workItem from="1584870861839" duration="3082000" />
     </task>
     <task id="LOCAL-00001" summary="Added self image.">
       <created>1575746507127</created>
@@ -93,25 +74,70 @@
       <option name="project" value="LOCAL" />
       <updated>1575746507127</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated some stuff.">
+      <created>1584872603100</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584872603100</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added self image." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added self image." />
+    <MESSAGE value="Updated some stuff." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated some stuff." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2569" y="151" width="749" height="956" key="CommitChangelistDialog2" timestamp="1584871567186">
+    <state x="2692" y="359" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584873628657">
       <screen x="1920" y="0" width="2048" height="1112" />
     </state>
-    <state x="2569" y="151" width="749" height="956" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.2048.1112/4480.0.2048.1112@1920.0.2048.1112" timestamp="1584871567186" />
-    <state x="2639" y="288" width="609" height="536" key="find.popup" timestamp="1584872220067">
+    <state x="2692" y="359" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.2048.1112/4480.0.2048.1112@1920.0.2048.1112" timestamp="1584873628657" />
+    <state x="2569" y="46" width="1307" height="1062" key="CommitChangelistDialog2" timestamp="1584873830722">
       <screen x="1920" y="0" width="2048" height="1112" />
     </state>
-    <state x="2639" y="288" width="609" height="536" key="find.popup/0.0.1920.1040/1920.0.2048.1112/4480.0.2048.1112@1920.0.2048.1112" timestamp="1584872220067" />
+    <state x="2569" y="46" width="1307" height="1062" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.2048.1112/4480.0.2048.1112@1920.0.2048.1112" timestamp="1584873830722" />
+    <state x="2013" y="93" width="1862" height="926" key="DiffContextDialog" timestamp="1584873371179">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state x="2013" y="93" width="1862" height="926" key="DiffContextDialog/0.0.1920.1040/1920.0.2048.1112/4480.0.2048.1112@1920.0.2048.1112" timestamp="1584873371179" />
+    <state x="3050" y="288" key="RollbackChangesDialog" timestamp="1584873814334">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state x="3050" y="288" key="RollbackChangesDialog/0.0.1920.1040/1920.0.2048.1112/4480.0.2048.1112@1920.0.2048.1112" timestamp="1584873814334" />
+    <state x="891" y="245" key="VcsDiffUtil.ChangesDialog" timestamp="1584873617111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="891" y="245" key="VcsDiffUtil.ChangesDialog/0.0.1920.1040/1920.0.2048.1112/4480.0.2048.1112@1920.0.2048.1112" timestamp="1584873617111" />
+    <state x="2639" y="288" width="609" height="536" key="find.popup" timestamp="1584873843240">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state x="2639" y="288" width="609" height="536" key="find.popup/0.0.1920.1040/1920.0.2048.1112/4480.0.2048.1112@1920.0.2048.1112" timestamp="1584873843240" />
     <state x="2607" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1584872214892">
       <screen x="1920" y="0" width="2048" height="1112" />
     </state>
